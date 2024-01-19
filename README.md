@@ -39,9 +39,11 @@
 5. **Lean Analytics** by Alistair Croll and Benjamin Yoskovitz
 6. **Inspired** by Marty Cagan
 7. **Mapping Experiences** by James Kalbach
+8. **Zero to One** by Peter Thiel
 
 ---
 
 Feel free to reach out if you have any questions or just want to connect!
 
 - 📧 Email: [flpbalada@gmail.com](mailto:flpbalada@gmail.com)
+
