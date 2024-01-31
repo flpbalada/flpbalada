@@ -1,11 +1,11 @@
-# Filip Balada - Product Guy & Indie Hacker
+# Filip Balada
 
 ## Welcome to My GitHub Profile! 👋
 
 ### About Me
 - **Name:** Filip Balada
 - **Location:** Czech Republic 🇨🇿
-- **Profession:** Product Enthusiast and Indie Hacker
+- **Profession:** Product Enthusiast 
 
 ### Interests
 - 🚀 Startups & Software Product Development
