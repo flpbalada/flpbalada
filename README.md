@@ -19,17 +19,17 @@
 - Solving Challenges That Impact Myself & Others
 
 ### Projects
-- **HiArts.cz:** An online platform for independent artists.
-- **Knihobot.cz:** An online marketplace for buying and selling books.
-- **Rephrasee.com:** An AI tool for enhancing message clarity.
+- **[HiArts.cz](https://hiarts.cz):** An online platform for independent artists.
+- **[Knihobot.cz](https://knihobot.cz):** An online marketplace for buying and selling books.
 - **[SaaS-calculator.com](https://saas-calculator.com):** Calculate metrics for SaaS businesses.
-- **OneTone.ai:** AI-driven customer support solution.
-- **Rums.cz:** A tool for rum auctions.
-- **Cablewakepark.cz:** Wakepark Hradec Králové website.
-- **Dev4dev.cz:** Developer resources and community.
-- **Usetreno.cz:** A platform for Money-saving tips and tricks.
-- **Roas.cz:** A marketing agency that I co-managed with my friend.
-- **Emshk.cz:** A website for EMS gym located in Hradec Králové
+- **[OneTone.ai](https://onetone.ai):** AI-driven customer support solution.
+- **[Rums.cz](https://rums.cz):** A tool for rum auctions.
+- **[Cablewakepark.cz](https://cablewakepark.cz):** Wakepark Hradec Králové website.
+- **[Dev4dev.cz](https://dev4dev.cz):** Developer resources and community.
+- **[Usetreno.cz](https://usetreno.cz):** A platform for Money-saving tips and tricks.
+- **[Roas.cz](https://roas.cz):** A marketing agency that I co-managed with my friend.
+- **[Emshk.cz](https://emshk.cz):** A website for EMS gym located in Hradec Králové
+- **Rephrasee.com:** An AI tool for enhancing message clarity. (post mortem)
 
 ### Books I Would Like to Recommend
 1. **The Lean Startup** by Eric Ries
