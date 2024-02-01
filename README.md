@@ -22,7 +22,7 @@
 - **HiArts.cz:** An online platform for independent artists.
 - **Knihobot.cz:** An online marketplace for buying and selling books.
 - **Rephrasee.com:** An AI tool for enhancing message clarity.
-- **SaaScalculator.com:** Calculate metrics for SaaS businesses.
+- **[SaaS-calculator.com](https://saas-calculator.com):** Calculate metrics for SaaS businesses.
 - **OneTone.ai:** AI-driven customer support solution.
 - **Rums.cz:** A tool for rum auctions.
 - **Cablewakepark.cz:** Wakepark Hradec Králové website.
