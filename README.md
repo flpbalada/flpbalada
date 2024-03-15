@@ -19,7 +19,7 @@
 - Solving Challenges That Impact Myself & Others
 
 ### Projects
-- **[HiArts.cz](https://hiarts.cz):** An online platform for independent artists.
+- **[Hiarts.cz](https://hiarts.cz):** An online platform for independent artists.
 - **[Knihobot.cz](https://knihobot.cz):** An online marketplace for buying and selling books.
 - **[SaaS-calculator.com](https://saas-calculator.com):** Calculate metrics for SaaS businesses.
 - **[OneTone.ai](https://onetone.ai):** AI-driven customer support solution.
