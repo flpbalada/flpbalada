@@ -31,7 +31,6 @@
 - **[OneTone.ai](https://onetone.ai):** AI-powered customer support solutions.  
 - **[Rums.cz](https://rums.cz):** An auction platform dedicated to rum enthusiasts.  
 - **[Usetreno.cz](https://usetreno.cz):** A go-to platform for money-saving insights.  
-- **[Emshk.cz](https://emshk.cz):** The online home of an EMS gym in Hradec Králové.  
 
 ---
 
