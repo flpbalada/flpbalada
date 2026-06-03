@@ -5,23 +5,23 @@
 ### My Interests
 - 🚀 Startups & Software Product Development  
 - 🎨 UX/UI Design  
-- 💻 Frontend Development  
+- 💻 Frontend Development
+- 🦾 LLMs & Agentic Workflows
 - 🌊 Wakeboarding  
 - 🧗 Bouldering
 
 ---
 
-### Projects I'm Proud Of
-- **[Hiarts.cz](https://hiarts.cz):** Empowering independent artists to sell their artworks.  
-- **[Knihobot.cz](https://knihobot.cz):** A marketplace for buying and selling used books.  
-- **[SaaS-calculator.com](https://saas-calculator.com):** Helping SaaS businesses track and analyze their metrics.  
-- **[OneTone.ai](https://onetone.ai):** AI-powered customer support solutions.  
-- **[Rums.cz](https://rums.cz):** An auction platform dedicated to rum enthusiasts.  
-- **[Usetreno.cz](https://usetreno.cz):** A go-to platform for money-saving insights.  
-
+### Projects
+- **[Hiarts.app](https://hiarts.app):** Personal project helping artists showcase their work. Built full-stack app with Next.js, tRPC, and MySQL.
+- **[Knihobot.cz](https://knihobot.cz):** Product owner for main website and CMS, with contributions to internal systems.
+- **[Ugo.cz](https://ugo.cz):** Built main ecommerce store experience as frontend designer, using Next.js and GraphQL backend integration.
+- **[Wakeset.app](https://wakeset.app):** Personal project for wakeboarders. Built full-stack wakepark discovery app with Next.js, Payload, and PostgreSQL.
+- **[SaaS-calculator.com](https://saas-calculator.com):** Personal MVP for SaaS metrics calculation. Built frontend app in Next.js.
+- **[OneTone.ai](https://onetone.ai):** Product owner for early AI customer support product. *(post mortem)*
+- **[Usetreno.cz](https://usetreno.cz):** First commercial project. Contributed as UX designer.
 ---
 
 ### Let’s Connect!  
-Feel free to reach out with questions, ideas, or just to say hello!  
 
 - 📧 Email: [flpbalada@gmail.com](mailto:flpbalada@gmail.com)  
